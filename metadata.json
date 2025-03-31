@@ -1,0 +1,6 @@
+{
+  "name": "Example Token",
+  "symbol": "EXMPL",
+  "description": "Example token for Solana Foundation",
+  "image": "https://raw.githubusercontent.com/jackhawks/token-command-line/refs/heads/main/metadata.png"
+}
